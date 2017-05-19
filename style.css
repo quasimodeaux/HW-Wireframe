@@ -2,7 +2,8 @@ p{
 	background-color:#ebebeb;
 	text-align:center;
 	color:#000;
-
+	margin: 10px 10px 10px 10px;
+	padding:10px 10px 10px 10px;
 
 }
 
@@ -31,15 +32,24 @@ aside{
 	width:465px;
 	height:100px;
 	position:relative;
+	margin-bottom:100px;
 
 }
 section{
 	height:100px;
 	width: 495px;
+	position:relative;
+	background-color:#ebebeb;
+	margin-right:30px;
+
 	
 	
 }
 article{
+background-color:#777;
+width:495px;
+text-align: center;
+
 
 	
 }
@@ -56,6 +66,8 @@ body{
 footer{
 	background-color:#ebebeb;
 	text-align:center;
-	margin-top:15px;
 	position: relative;
+	margin-top:80px;
+	padding:10px 20px 30px 40px;
+	
 }
