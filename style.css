@@ -29,19 +29,21 @@ aside{
 	background-color:#ebebeb;
 	text-align:center;
 	float:right;
-	width:465px;
+	width:445px;
 	height:100px;
 	position:relative;
 	margin-bottom:100px;
 
 }
 section{
-	height:100px;
+	height:200px;
 	width: 495px;
 	position:relative;
+	float:left;
 	background-color:#ebebeb;
 	margin-right:30px;
-
+	margin: 10px 10px 10px 10px;
+	padding:10px 10px 10px 10px;
 	
 	
 }
@@ -49,6 +51,8 @@ article{
 background-color:#777;
 width:495px;
 text-align: center;
+margin: 10px 10px 10px 10px;
+padding:10px 10px 10px 10px;
 
 
 	
@@ -67,7 +71,7 @@ footer{
 	background-color:#ebebeb;
 	text-align:center;
 	position: relative;
-	margin-top:80px;
+	margin-top:300px;
 	padding:10px 20px 30px 40px;
 	
 }
